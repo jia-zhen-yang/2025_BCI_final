@@ -86,8 +86,9 @@ This EEG dataset was collected to study the neural differences between children 
 
 For each participant, the feature extraction process resulted in a feature vector of 4 (frequency bands) \*7 (channels)\*2(PSD+SE) features.
 
-**Result**
-SVM
+## Result
+
+**SVM**
 
 <img src="https://github.com/jia-zhen-yang/2025_BCI_final/blob/0d50f0a9e3e2f9c020f52a7aed6d6a78c089a485/assets/README_result_accuracy.jpg"/><br>
 
@@ -99,7 +100,7 @@ Average Testing Accuracy 60.29%
 
 recall ADHD : 63.93%
 
-XG-Boost
+**XG-Boost**
 
 <img src="https://github.com/jia-zhen-yang/2025_BCI_final/blob/0d50f0a9e3e2f9c020f52a7aed6d6a78c089a485/assets/confusion%20matrix_XGBoost.jpg"/><br>
 

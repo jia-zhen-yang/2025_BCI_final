@@ -55,9 +55,9 @@ This EEG dataset was collected to study the neural differences between children 
 ### Data Processing
 **Raw Independent Component Analysis**
 
-<img src="https://github.com/jia-zhen-yang/2025_BCI_final/blob/0d50f0a9e3e2f9c020f52a7aed6d6a78c089a485/assets/README_Raw%20Independent%20Component%20Analysis_2.png" width="700"/><br>
+<img src="[https://github.com/jia-zhen-yang/2025_BCI_final/blob/0d50f0a9e3e2f9c020f52a7aed6d6a78c089a485/assets/README_Filtered%20Independent%20Component%20Analysis.png_2.png](https://github.com/jia-zhen-yang/2025_BCI_final/blob/0d50f0a9e3e2f9c020f52a7aed6d6a78c089a485/assets/README_Raw%20Independent%20Component%20Analysis_2.png)"/><br>
 
-<img src="https://github.com/jia-zhen-yang/2025_BCI_final/blob/0d50f0a9e3e2f9c020f52a7aed6d6a78c089a485/assets/README_Raw%20Independent%20Component%20Analysis_2.png" width="700"/><br>
+<img src="https://github.com/jia-zhen-yang/2025_BCI_final/blob/0d50f0a9e3e2f9c020f52a7aed6d6a78c089a485/assets/README_Filtered%20Independent%20Component%20Analysis.png_2.png"/><br>
 
 **Filtered Independent Component Analysis**
 

@@ -1,4 +1,4 @@
-### Data Description
+## Data Description
 
 **Overview**
 
@@ -49,10 +49,10 @@ This EEG dataset was collected to study the neural differences between children 
 - **Use License**: Publicly available for research and academic purposes
 - **Ethics**: Diagnoses performed by medical professionals; participants anonymized
 
-### Model Framework
+## Model Framework
 <img src="https://github.com/jia-zhen-yang/2025_BCI_final/blob/0d50f0a9e3e2f9c020f52a7aed6d6a78c089a485/assets/README_model%20framework.png" width="700"/><br>
 
-### Data Processing
+## Data Processing
 **Raw Independent Component Analysis**
 
 <img src="https://github.com/jia-zhen-yang/2025_BCI_final/blob/0d50f0a9e3e2f9c020f52a7aed6d6a78c089a485/assets/README_Raw%20Independent%20Component%20Analysis_2.png"/><br>
@@ -79,14 +79,14 @@ This EEG dataset was collected to study the neural differences between children 
 | Filtered | ✓   |     | 12.8430 | 0.0826 | 2.0661 | 0.0000 | 0.0000 | 0.0909 | 3.9174 | 19.0000 |
 | ASR | ✓   | ✓   | 13.9174 | 0.0909 | 1.6281 | 0.0000 | 0.0000 | 0.0579 | 3.3058 | 19.0000 |
 
-### Classification Model
-**Feature Extraction**
+## Classification Model
+### Feature Extraction
 
 <img src="https://github.com/jia-zhen-yang/2025_BCI_final/blob/0d50f0a9e3e2f9c020f52a7aed6d6a78c089a485/assets/README_PSD.jpg"/><br>
 
 For each participant, the feature extraction process resulted in a feature vector of 4 (frequency bands) \*7 (channels)\*2(PSD+SE) features.
 
-## Result
+### Result
 
 **SVM**
 
@@ -110,7 +110,7 @@ Specificity Control: 58.77%
 
 Recall ADHD: 59.01%
 
-### Quality Evaluation
+## Quality Evaluation
 
 **Literature Foundation and Protocol Validity**
 
@@ -136,15 +136,15 @@ Two complementary frequency-domain features—Power Spectral Density (PSD) and S
 
 Two machine learning classifiers (SVM and XG-Boost) were trained and evaluated. While the testing accuracy shows moderate generalizability, the divergence between training and testing accuracy highlights potential overfitting and suggests the need for further cross-validation or ensemble methods. Nonetheless, the classification recall for ADHD remains promising, reinforcing the discriminative power of the extracted features.
 
-### Validation
+## Validation
 
 To evaluate the trained classifier, we use cross-validation on the dataset to assess its performance in accurately classifying motor imagery tasks. We also analyze classification metrics such as accuracy, recall to quantify the classifier's effectiveness.
 
-### Usage
+## Usage
 
 Describe the usage of their BCI model’s code. Explain the required environment and dependencies needed to run the code. Describe any configurable options or parameters within the code. Provide instructions on how to execute the code.
 
-### File Description  
+## File Description  
 The data folder contains:
 
 - raw_adhdata.csv: Raw EEG data

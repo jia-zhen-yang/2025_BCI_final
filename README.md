@@ -51,11 +51,10 @@ This EEG dataset was collected to study the neural differences between children 
 
 ### Model Framework
 <img src="https://github.com/jia-zhen-yang/2025_BCI_final/blob/0d50f0a9e3e2f9c020f52a7aed6d6a78c089a485/assets/README_model%20framework.png" width="700"/><br>
-https://github.com/jia-zhen-yang/2025_BCI_final/blob/0d50f0a9e3e2f9c020f52a7aed6d6a78c089a485/assets/README_model%20framework.png
 
 ### Data Processing
 **Raw Independent Component Analysis**
-https://github.com/jia-zhen-yang/2025_BCI_final/blob/0d50f0a9e3e2f9c020f52a7aed6d6a78c089a485/assets/README_Raw%20Independent%20Component%20Analysis_2.png
+<img src="[https://github.com/jia-zhen-yang/2025_BCI_final/blob/0d50f0a9e3e2f9c020f52a7aed6d6a78c089a485/assets/README_model%20framework.png](https://github.com/jia-zhen-yang/2025_BCI_final/blob/0d50f0a9e3e2f9c020f52a7aed6d6a78c089a485/assets/README_Raw%20Independent%20Component%20Analysis_2.png)" width="700"/><br>
 
 https://github.com/jia-zhen-yang/2025_BCI_final/blob/0d50f0a9e3e2f9c020f52a7aed6d6a78c089a485/assets/README_Raw%20Independent%20Component%20Analysis.png
 

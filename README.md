@@ -145,8 +145,6 @@ Describe the usage of their BCI model’s code. Explain the required environment
 ## File Description  
 The data folder contains:
 
-- raw_adhdata.csv: Raw EEG data
-- subjects_selected/ folder: Includes EEG recordings from 121 subjects
 - EEG_spectral_features.csv: Extracted EEG features used for model training
 
 The model folder contains:

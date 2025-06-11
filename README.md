@@ -108,7 +108,7 @@ Average Accuracy:100.00%
 
 Specificity Control: 58.77%
 
-Recall ADHD: 59.01%
+Recall ADHD: 54.10%
 
 ## Quality Evaluation
 

@@ -63,7 +63,7 @@ This EEG dataset was collected to study the neural differences between children 
 
 <img src="https://github.com/jia-zhen-yang/2025_BCI_final/blob/0d50f0a9e3e2f9c020f52a7aed6d6a78c089a485/assets/README_Filtered%20Independent%20Component%20Analysis.png_2.png"/><br>
 
-<img src="https://github.com/jia-zhen-yang/2025_BCI_final/blob/0d50f0a9e3e2f9c020f52a7aed6d6a78c089a485/assets/README_Filtered%20Independent%20Component%20Analysis.png.png"/><br>
+<img src="https://github.com/jia-zhen-yang/2025_BCI_final/blob/872c4e8fe3c844cf7a90ef8e00506155bb2a4d73/assets/README_Filtered%20Independent%20Component%20Analysis.png"/><br>
 
 **Filtered ASR Independent Component Analysis**
 <img src="https://github.com/jia-zhen-yang/2025_BCI_final/blob/0d50f0a9e3e2f9c020f52a7aed6d6a78c089a485/assets/README_Filtered%20ASR%20Independent%20Component%20Analysis_2.png"/><br>

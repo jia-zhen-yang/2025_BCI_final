@@ -66,6 +66,7 @@ This EEG dataset was collected to study the neural differences between children 
 <img src="https://github.com/jia-zhen-yang/2025_BCI_final/blob/872c4e8fe3c844cf7a90ef8e00506155bb2a4d73/assets/README_Filtered%20Independent%20Component%20Analysis.png"/><br>
 
 **Filtered ASR Independent Component Analysis**
+
 <img src="https://github.com/jia-zhen-yang/2025_BCI_final/blob/0d50f0a9e3e2f9c020f52a7aed6d6a78c089a485/assets/README_Filtered%20ASR%20Independent%20Component%20Analysis_2.png"/><br>
 
 <img src="https://github.com/jia-zhen-yang/2025_BCI_final/blob/0d50f0a9e3e2f9c020f52a7aed6d6a78c089a485/assets/README_Filtered%20ASR%20Independent%20Component%20Analysis.png"/><br>
@@ -80,15 +81,15 @@ This EEG dataset was collected to study the neural differences between children 
 
 ### Classification Model
 **Feature Extraction**
-https://github.com/jia-zhen-yang/2025_BCI_final/blob/0d50f0a9e3e2f9c020f52a7aed6d6a78c089a485/assets/README_PSD.jpg
+<img src="https://github.com/jia-zhen-yang/2025_BCI_final/blob/0d50f0a9e3e2f9c020f52a7aed6d6a78c089a485/assets/README_PSD.jpg"/><br>
 
 For each participant, the feature extraction process resulted in a feature vector of 4 (frequency bands) \*7 (channels)\*2(PSD+SE) features.
 
 **Result**
 SVM
-https://github.com/jia-zhen-yang/2025_BCI_final/blob/0d50f0a9e3e2f9c020f52a7aed6d6a78c089a485/assets/README_result_accuracy.jpg
+<img src="https://github.com/jia-zhen-yang/2025_BCI_final/blob/0d50f0a9e3e2f9c020f52a7aed6d6a78c089a485/assets/README_result_accuracy.jpg"/><br>
 
-https://github.com/jia-zhen-yang/2025_BCI_final/blob/0d50f0a9e3e2f9c020f52a7aed6d6a78c089a485/assets/confusion%20matrix_SVM.jpg
+<img src="https://github.com/jia-zhen-yang/2025_BCI_final/blob/0d50f0a9e3e2f9c020f52a7aed6d6a78c089a485/assets/confusion%20matrix_SVM.jpg"/><br>
 
 Average Training Accuracy 90.43%
 
@@ -97,7 +98,7 @@ Average Testing Accuracy 60.29%
 recall ADHD : 63.93%
 
 XG-Boost
-https://github.com/jia-zhen-yang/2025_BCI_final/blob/0d50f0a9e3e2f9c020f52a7aed6d6a78c089a485/assets/confusion%20matrix_XGBoost.jpg
+<img src="https://github.com/jia-zhen-yang/2025_BCI_final/blob/0d50f0a9e3e2f9c020f52a7aed6d6a78c089a485/assets/confusion%20matrix_XGBoost.jpg"/><br>
 
 Average Accuracy:100.00%
 

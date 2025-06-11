@@ -100,7 +100,7 @@ recall ADHD : 63.93%
 
 **XG-Boost**
 
-<img src="https://github.com/jia-zhen-yang/2025_BCI_final/blob/0d50f0a9e3e2f9c020f52a7aed6d6a78c089a485/assets/confusion%20matrix_XGBoost.jpg"/><br>
+<img src="https://github.com/jia-zhen-yang/2025_BCI_final/blob/a1d6967c43eb40b02f5ad510d66864a68c58fd9c/assets/confusion%20matrix_XGBoost.jpg"/><br>
 
 Average Accuracy:100.00%
 

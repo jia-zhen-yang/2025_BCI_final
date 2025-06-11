@@ -90,9 +90,7 @@ For each participant, the feature extraction process resulted in a feature vecto
 
 **SVM**
 
-<img src="https://github.com/jia-zhen-yang/2025_BCI_final/blob/0d50f0a9e3e2f9c020f52a7aed6d6a78c089a485/assets/README_result_accuracy.jpg"/><br>
-
-<img src="https://github.com/jia-zhen-yang/2025_BCI_final/blob/0d50f0a9e3e2f9c020f52a7aed6d6a78c089a485/assets/confusion%20matrix_SVM.jpg"/><br>
+<img src="https://github.com/jia-zhen-yang/2025_BCI_final/blob/0e84ce9962dcde08a6abc0395b8563759768f69c/assets/confusion%20matrix_SVM.jpg"/><br>
 
 Average Training Accuracy 90.43%
 

@@ -108,7 +108,7 @@ Specificity Control: 58.77%
 
 Recall ADHD: 54.10%
 
-**Demo video**: [model execution]([https://www.kaggle.com/datasets/danizo/eeg-dataset-for-adhd](https://drive.google.com/file/d/1I93sDXq3HSOYj9CiKmNq5d-_GiUyR3ib/view?usp=sharing))
+**Demo video**: [model execution](https://drive.google.com/file/d/1I93sDXq3HSOYj9CiKmNq5d-_GiUyR3ib/view?usp=sharing)
 
 ## Quality Evaluation
 
